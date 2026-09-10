@@ -16,8 +16,7 @@ Get the latest version from the [Releases page](../../releases/latest), or from
 | macOS (Apple Silicon) | `Sophocles_<version>_aarch64.dmg` |
 | Windows (x64) | `Sophocles_<version>_x64-setup.exe` |
 
-The `.app.tar.gz` and `.sig` files are used by the in-app updater. You do not need to
-download them manually.
+The .app.tar.gz file is used by the in-app updater. You do not need to download it manually.
 
 ## Manifests
 
