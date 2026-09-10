@@ -1,0 +1,23 @@
+{
+  "version": "0.1.2",
+  "notes": "",
+  "pub_date": "2026-09-10T17:49:18.207Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaHp5Tlp5SWcwZDVhdFhCbHh1Vi9WVmFQNDVyWU5jZ05MYmw4c3VvV2RodnR6NS9VUXV6ZXJ2Qm83cy9QcmUyRGJZZlBMTlZqNFIyNmt1NVNzN2xwTFZUZFlUaW9xWndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDYxNzY4CWZpbGU6U29waG9jbGVzXzAuMS4yX3g2NC1zZXR1cC5leGUKWGRBYStTSDRPWU9xdlVCUVQrWDhOOWVXUTJJTk01RDI5Q2phSGZBa21IaWcxd0tXMWUyWXg5S0RIL2dmZlBLdEZDMzNuTE1kdmVXSjVURnZvZnZLQVE9PQo=",
+      "url": "https://github.com/sophocles-app/sophocles-releases/releases/download/v0.1.2/Sophocles_0.1.2_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaHp5Tlp5SWcwZDVhdFhCbHh1Vi9WVmFQNDVyWU5jZ05MYmw4c3VvV2RodnR6NS9VUXV6ZXJ2Qm83cy9QcmUyRGJZZlBMTlZqNFIyNmt1NVNzN2xwTFZUZFlUaW9xWndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDYxNzY4CWZpbGU6U29waG9jbGVzXzAuMS4yX3g2NC1zZXR1cC5leGUKWGRBYStTSDRPWU9xdlVCUVQrWDhOOWVXUTJJTk01RDI5Q2phSGZBa21IaWcxd0tXMWUyWXg5S0RIL2dmZlBLdEZDMzNuTE1kdmVXSjVURnZvZnZLQVE9PQo=",
+      "url": "https://github.com/sophocles-app/sophocles-releases/releases/download/v0.1.2/Sophocles_0.1.2_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaHp5Tlp5SWcwZDZ2ZXdmN0JyVTlEYXJydXNGUktqbEg5Zk9adkoxaXh0MUhKQjlPcWZWNUwwVmNCM01HcExWODNVejR2V3FKMXdtemgwK3NvRlZtK2pURXpCR1hoL1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDYyNTQ5CWZpbGU6U29waG9jbGVzLmFwcC50YXIuZ3oKV01YWkNPOG85Qzc4c3J3ZkUva1RYeENYWlROSDMrVlp6MzR5ZjZJRnc5TnJMRlFjSDJnTUdLKy90Q1QvOFVlcGFsOElQV0I0VE5WdW5tR2MvVVBBQkE9PQo=",
+      "url": "https://github.com/sophocles-app/sophocles-releases/releases/download/v0.1.2/Sophocles_0.1.2_aarch64.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaHp5Tlp5SWcwZDZ2ZXdmN0JyVTlEYXJydXNGUktqbEg5Zk9adkoxaXh0MUhKQjlPcWZWNUwwVmNCM01HcExWODNVejR2V3FKMXdtemgwK3NvRlZtK2pURXpCR1hoL1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDYyNTQ5CWZpbGU6U29waG9jbGVzLmFwcC50YXIuZ3oKV01YWkNPOG85Qzc4c3J3ZkUva1RYeENYWlROSDMrVlp6MzR5ZjZJRnc5TnJMRlFjSDJnTUdLKy90Q1QvOFVlcGFsOElQV0I0VE5WdW5tR2MvVVBBQkE9PQo=",
+      "url": "https://github.com/sophocles-app/sophocles-releases/releases/download/v0.1.2/Sophocles_0.1.2_aarch64.app.tar.gz"
+    }
+  }
+}

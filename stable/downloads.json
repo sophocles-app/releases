@@ -1,0 +1,10 @@
+{
+  "macos": {
+    "version": "0.1.2",
+    "url": "https://github.com/sophocles-app/sophocles-releases/releases/download/v0.1.2/Sophocles_0.1.2_aarch64.dmg"
+  },
+  "windows": {
+    "version": "0.1.2",
+    "url": "https://github.com/sophocles-app/sophocles-releases/releases/download/v0.1.2/Sophocles_0.1.2_x64-setup.exe"
+  }
+}
